@@ -1,0 +1,1 @@
+Automated ETL and data quality validation pipeline simulating regulatory and audit compliance monitoring within financial services.
