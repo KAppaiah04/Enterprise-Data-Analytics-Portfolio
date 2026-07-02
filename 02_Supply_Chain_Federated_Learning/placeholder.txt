@@ -1,0 +1,3 @@
+Python implementation of a privacy-preserving distributed Machine Learning model applied to supply chain demand forecasting, 
+based on my MSc dissertation.Python implementation of a privacy-preserving distributed Machine Learning model applied to supply chain demand forecasting, 
+based on my MSc dissertation.
